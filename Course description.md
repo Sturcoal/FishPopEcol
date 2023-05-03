@@ -14,7 +14,7 @@
 
 4. Практическое занятие. Оценка числености популяции. Интерактив. Для работы с ним необходимо пройти по [ссылке.](https://virtualbiologylab.org/NetWebHTML_FilesJan2016/PopulationEstimationModel.html) Работа интерактива проверена в google chrome. Необходимо провести выборку головастиков из пруда, пометить их, выпустить и снова произвести отлов. Используя полученные данные ответить на вопросы в [форме.](https://forms.gle/yYFVRkEvVaHPLccX6)
 
-5. Введение в популяционную экологию [рыб.]([https://www.youtube.com/watch?v=zFNB1y9_mOc](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%AD%D0%A0%202022.pdf)
+5. Введение в популяционную экологию [рыб.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%AD%D0%A0%202022.pdf)
 
 6. 
 
