@@ -2,35 +2,35 @@
 ------------------------------------------------------------------------------------------------------------------------
 ### Материалы к курсу для студентов 3 года обучения бакалавриата Дальрыбвтуза специальности "Водные биоресурсы и аквакультура"
 
-1. Экология популяций, [часть 1.](https://www.youtube.com/watch?v=n6dafDk0AsU)
+1. **Экология популяций**, [часть 1.](https://www.youtube.com/watch?v=n6dafDk0AsU)
 Лекция по общим вопросам экологии популяций. Необходимо ознакомиться с видео по ссылке. После - ответить на вопросы [здесь.](https://forms.gle/duJzx9EjnZVVoEh27)
 Имеет смысл прочитать вопросы до просмотра видео.
 
-2. Практическое занятие. Логистический рост популяции. Интерактив. Для работы с ним необходимо пройти по [ссылке.](https://virtualbiologylab.org/NetWebHTML_FilesJan2016/LogisticGrowthModel.html) Работа интерактива проверена в google chrome. Используя [предварительные сведения](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D1%80%D0%BE%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.pdf) о рассматриваемых моделях, необходимо ответить на вопросы в [форме.](https://forms.gle/UhSZcQVn222TfJJD7) 
+2. Практическое занятие. **Логистический рост популяции**. Интерактив. Для работы с ним необходимо пройти по [ссылке.](https://virtualbiologylab.org/NetWebHTML_FilesJan2016/LogisticGrowthModel.html) Работа интерактива проверена в google chrome. Используя [предварительные сведения](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%BA%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D1%80%D0%BE%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.pdf) о рассматриваемых моделях, необходимо ответить на вопросы в [форме.](https://forms.gle/UhSZcQVn222TfJJD7) 
 
-3. Экология популяций, [часть 2.](https://www.youtube.com/watch?v=zFNB1y9_mOc)
+3. **Экология популяций**, [часть 2.](https://www.youtube.com/watch?v=zFNB1y9_mOc)
 Продолжение лекции по общим вопросам экологии популяций. Необходимо ознакомиться с видео по ссылке. После - ответить на вопросы [здесь.](https://forms.gle/MEhP99ZZrZi9KpWa9)
 Имеет смысл прочитать вопросы к лекции до просмотра видео.
 
-4. Практическое занятие. Оценка числености популяции. Интерактив. Для работы с ним необходимо пройти по [ссылке.](https://virtualbiologylab.org/NetWebHTML_FilesJan2016/PopulationEstimationModel.html) Работа интерактива проверена в google chrome. Необходимо провести выборку головастиков из пруда, пометить их, выпустить и снова произвести отлов. Используя полученные данные ответить на вопросы в [форме.](https://forms.gle/yYFVRkEvVaHPLccX6)
+4. Практическое занятие. **Оценка числености популяции**. Интерактив. Для работы с ним необходимо пройти по [ссылке.](https://virtualbiologylab.org/NetWebHTML_FilesJan2016/PopulationEstimationModel.html) Работа интерактива проверена в google chrome. Необходимо провести выборку головастиков из пруда, пометить их, выпустить и снова произвести отлов. Используя полученные данные ответить на вопросы в [форме.](https://forms.gle/yYFVRkEvVaHPLccX6)
 
-5. Введение в популяционную экологию [рыб.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%AD%D0%A0%202022.pdf) Лекция.
+5. **Введение в популяционную экологию [рыб**.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%AD%D0%A0%202022.pdf) Лекция.
 
-6. Практическое занятие. Стратегии популяций.  
+6. Практическое занятие. **Стратегии популяций**.  
 Файл c заданием находится в [директории репозитория.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201.pdf) Выполняем письменно, в тетради.
 
-7. [Популяция.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%9F%D0%AD%D0%A0%202022.pdf) Лекция.
+7. [**Популяция**.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%9F%D0%AD%D0%A0%202022.pdf) Лекция.
 
-8.  Практическое занятие. Типы роста.   
+8.  Практическое занятие. **Типы роста**.   
 Файл c заданием находится в [директории репозитория.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%94%D0%BE%D0%BF%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%201.pdf) Выполняем письменно, в тетради.
 
-9.  Экологическая [ниша.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9D%D0%B8%D1%88%D0%B0%20%D0%9F%D0%AD%D0%A0%202022.pdf)  
+9.  **Экологическая [ниша**.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9D%D0%B8%D1%88%D0%B0%20%D0%9F%D0%AD%D0%A0%202022.pdf)  
 Лекция.
 
-10. [Рост популяции.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%A0%D0%BE%D1%81%D1%82%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8%20%D0%9F%D0%AD%D0%A0.pdf)   
+10. [**Рост популяции**.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%A0%D0%BE%D1%81%D1%82%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8%20%D0%9F%D0%AD%D0%A0.pdf)   
 Лекция + немного практики.
 
-11. Практическое занятие. Численность человеческой популяции. Файл c заданием находится в [директории репозитория.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%94%D0%BE%D0%BF%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%202%20%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.pdf) Выполняем письменно, в тетради.
+11. Практическое занятие. **Численность человеческой популяции**. Файл c заданием находится в [директории репозитория.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%94%D0%BE%D0%BF%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%202%20%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.pdf) Выполняем письменно, в тетради.
 
 
 ------------------------------------------------------------------------------------------------------------------------
