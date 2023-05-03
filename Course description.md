@@ -20,7 +20,9 @@
 
 7. [Популяция.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%20%D0%9F%D0%AD%D0%A0%202022.pdf) Лекция.
 
-8.  
+8.  Практическое занятие. Типы роста. Файл c заданием находится в [директории репозитория.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%94%D0%BE%D0%BF%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%201.pdf) Выполняем письменно, в тетради.
+
+9.  
 
 
 
