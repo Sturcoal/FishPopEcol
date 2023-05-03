@@ -16,7 +16,9 @@
 
 5. Введение в популяционную экологию [рыб.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%AD%D0%A0%202022.pdf)
 
-6. 
+6. Практическое занятие. Стратегии популяций. Файл c заданием находится в [директории репозитория.](https://github.com/Sturcoal/FishPopEcol/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201.pdf) Выполняем письменно, в тетради.
+
+7. 
 
 
 
