@@ -41,6 +41,8 @@ Akcakaya H.R. , Burgman M.A., Ginzburg L.R. Applied Population Ecology. 1998.
 
 Джиллер П. Структура сообществ и экологическая ниша: Пер. с англ. — М.: Мир, 1988. 184 с.
 
+Пианка Э. Эволюционная экология. — М.: Мир, 1981. — 400 с.
+
 Rockwood L. L. Introduction to population ecology. – John Wiley & Sons, 2015.
 
 
